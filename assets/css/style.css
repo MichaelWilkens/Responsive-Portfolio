@@ -269,7 +269,7 @@ fieldset{
 @media (max-width: 640px) {
      
     .main-content {
-        /* width: 75%; */
+        width: 75%;
         margin-top: 100px;
         
     }
