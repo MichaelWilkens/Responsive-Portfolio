@@ -158,6 +158,7 @@ fieldset{
 
 .container {
     position: relative;
+    display: inline-block;
 }
 
 .portfolio-image {
